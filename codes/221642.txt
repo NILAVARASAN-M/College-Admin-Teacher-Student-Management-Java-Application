@@ -1,0 +1,6 @@
+Monday,Class 1,Break,Break,Class 2
+Tuesday,Break,Break,Break,Class 2
+Wednesday,Class 1,Class 3,Class 5,Break
+Thursday,Break,Break,Class 2,Class 1
+Friday,Break,Class 6,Break,Class 2
+Saturday,Break,Class 3,Break,Break
