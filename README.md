@@ -39,12 +39,27 @@ Following are the JavaFX file's, and thier role in the project. There are Two se
 
 This are the files-names, which are in the `https://github.com/NILAVARASAN-M/College-Admin-Teacher-Student-Management-Java-Application/tree/master/codes/src/main/java/com/example/demo1` and the below file's Together run for the working of Teacher's-Portal.
 - Step1
-Home-Page, this is the first Page that open's when the Tecahers Open thier respective portal. [Click Here](https://github.com/NILAVARASAN-M/College-Admin-Teacher-Student-Management-Java-Application/blob/master/website%20images/teacher/Step1.png) 
+
+This is the Home-Page that it is the first Page that open's when the Faculty Open's thier respective portal. [Click Here](https://github.com/NILAVARASAN-M/College-Admin-Teacher-Student-Management-Java-Application/blob/master/website%20images/teacher/Step1.png) 
 - Step2
+
+This is the Verification-Page, it appears when a new faculty is joining.  The credendetials, for this  will be given by the admin to the respective teacher. Will be unique for each Teacher, and can be used for sigining in, once signed up. [Click Here](https://github.com/NILAVARASAN-M/College-Admin-Teacher-Student-Management-Java-Application/blob/master/website%20images/teacher/Step2.png) 
+
 - Step3
+
+Once the verification-page verifies that the teacher is a new faculty added by the admin, this sign-up page appers. They have to include thier respective personal mail-ID, password. Now they can use this mail-ID and pass word for sigining-in. [Click Here](https://github.com/NILAVARASAN-M/College-Admin-Teacher-Student-Management-Java-Application/blob/master/website%20images/teacher/Step3.png) 
+
 - Step4
+
+The faculty fills all the extra-details shown in this page, this page appears after signing-up. All this details are stored, as thier profile. [Click Here](https://github.com/NILAVARASAN-M/College-Admin-Teacher-Student-Management-Java-Application/blob/master/website%20images/teacher/Step4.png)  
+
 - Step5
+
+This is the sign-in page, the faculty can sign-in only after they have done verification/ sign-up etc. Have to use the mail-ID and the password provided in the sign-up page. [Click Here](https://github.com/NILAVARASAN-M/College-Admin-Teacher-Student-Management-Java-Application/blob/master/website%20images/teacher/Step5.png) 
+
 - Step6
+
+Appears whenever the faculty sign's-in, there will be some options listed. That are things the teachers can do.[Click Here](https://github.com/NILAVARASAN-M/College-Admin-Teacher-Student-Management-Java-Application/blob/master/website%20images/teacher/Step1.png) 
 - Step7
 - Step1About
 - Step1Contact
